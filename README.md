@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Cubie</h1>
-<h3 align="center">Weird Catboy doing funny codin</h3>
+<h3 align="center">Tired Guy doing funny codin</h3>
 
 - 🔭 I’m currently working on **a privacy focussed Smart Home PWA**
 
@@ -17,5 +17,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cybercube21&show_icons=true&locale=en&layout=compact" alt="cybercube21" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cybercube21&show_icons=true&locale=en" alt="cybercube21" /></p>
+<p>&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cybercube21&show_icons=true&locale=en" alt="cybercube21" /></p>
 
