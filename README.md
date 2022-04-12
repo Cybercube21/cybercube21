@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Cubie</h1>
-<h3 align="center">Tired guy doing funny codin</h3>
+<h3 align="center">Just a guy doing funny codin</h3>
 
 - 🔭 I’m currently working on **a privacy focussed Smart Home PWA**
 
