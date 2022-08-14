@@ -1,5 +1,5 @@
 <h1 align="center">Cybercube21</h1>
-<h3 align="center">Just a guy doing funny codin</h3>
+<h3 align="center">Just a cat doing funny codin</h3>
 
 ![lives-by-95%-caffeine-in-blood](https://user-images.githubusercontent.com/45008576/169272354-06a56c49-aec0-4857-b2bb-95b29fbe4165.svg)
 
