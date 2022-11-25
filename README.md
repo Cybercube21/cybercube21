@@ -3,7 +3,7 @@
 
 ![lives-by-95%-caffeine-in-blood](https://user-images.githubusercontent.com/45008576/169272354-06a56c49-aec0-4857-b2bb-95b29fbe4165.svg)
 
-- 19y.o dev / Linux SysAdmin / Hobby Streamer
+- Linux SysAdmin / Hobby Streamer
 
 - Currently working on **a privacy focussed Smart Home PWA**
 
