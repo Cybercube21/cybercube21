@@ -1,11 +1,15 @@
-<h1 align="center">Cybercube21</h1>
-<h3 align="center">Just a cat doing funny codin</h3>
+
+<h2 style="display:inline">Hey there! I'm Cybercube21, aka Cubie :heartpulse: </h2>
+
+<div> <h3 align="left">Just a cat doing funny codin <img src="https://user-images.githubusercontent.com/45008576/213652147-02939162-8e03-4498-b417-1828b249412c.gif" width="15" height="15"/> </h3>  </div> 
+
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/45008576/213651743-233e3565-219d-4ace-88f7-53aa112b7a03.svg)
 
 ![lives-by-95%-caffeine-in-blood](https://user-images.githubusercontent.com/45008576/169272354-06a56c49-aec0-4857-b2bb-95b29fbe4165.svg)
 
 - Linux SysAdmin / Hobby Streamer
 
-- Currently working on **a privacy focussed Smart Home PWA**
+- Currently working on **way too much to list plz send help**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
