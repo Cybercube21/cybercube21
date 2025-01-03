@@ -1,5 +1,5 @@
 
-<h2 style="display:inline">Hey there! I'm Cybercube21, aka Cubie :heartpulse: </h2>
+<h2 style="display:inline">Hey there! I'm Cybercube21, aka Cubie 💕 </h2>
 
 <div> <h3 align="left">Just a cat doing funny codin <img src="https://user-images.githubusercontent.com/45008576/213652147-02939162-8e03-4498-b417-1828b249412c.gif" width="15" height="15"/> </h3>  </div> 
 
